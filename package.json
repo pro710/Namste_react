@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "this is parcel ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pro710/Namste_react.git"
+  },
+  "author": "mayank patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pro710/Namste_react/issues"
+  },
+  "homepage": "https://github.com/pro710/Namste_react#readme",
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-react": "^7.26.3"
+  }
+}
